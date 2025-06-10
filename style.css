@@ -84,7 +84,7 @@ input:focus, textarea:focus {
 
 
 button {
-  background-color: #3485f7; /* Light blue */
+  background-color: #3485f7; 
   color: white;
   padding: 14px;
   font-size: 1rem;
